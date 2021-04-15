@@ -1,4 +1,4 @@
-module github.com/abdukhashimov/zap-logger
+module github.com/abdukhashimov/zaplogger
 
 go 1.16
 
